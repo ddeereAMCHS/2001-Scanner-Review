@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "javac ScannerReview.java",
+      "run": "java ScannerReview",
+      "input": "7\r\n7\r\n8\r\nWill",
+      "output": "Will\r\n22\r\n7.3333",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2",
+      "setup": "javac ScannerReview.java",
+      "run": "java ScannerReview",
+      "input": "3\r\n4\r\n5\r\nBob",
+      "output": "Bob\r\n12\r\n4.0000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
