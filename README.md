@@ -1,5 +1,7 @@
 # Scanner Review
 
+## Due: Tue 8/23 at 11:59 PM
+
 - Create a program called `ScannerReview.java`
 - Prompt the user for 3 integers
 - Prompt the user for their first name
